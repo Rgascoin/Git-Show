@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Git-Show
 
 Git-Show is a web App made with ReactJS for using the GitHub's API.
 It's was made during a course promulgated by [bradtraversy](https://www.udemy.com/course/modern-react-front-to-back/).
